@@ -1,0 +1,11 @@
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\bin\Release\net8.0\OnlineSchoolDiary.Shared.deps.json
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\bin\Release\net8.0\OnlineSchoolDiary.Shared.dll
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\bin\Release\net8.0\OnlineSchoolDiary.Shared.pdb
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\OnlineSchoolDiary.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\OnlineSchoolDiary.Shared.AssemblyInfoInputs.cache
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\OnlineSchoolDiary.Shared.AssemblyInfo.cs
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\OnlineSchoolDiary.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\OnlineSchoolDiary.Shared.dll
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\refint\OnlineSchoolDiary.Shared.dll
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\OnlineSchoolDiary.Shared.pdb
+C:\Users\Arslan\Desktop\ProjectPdc\OnlineSchoolDiary.Shared\obj\Release\net8.0\ref\OnlineSchoolDiary.Shared.dll
